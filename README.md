@@ -24,19 +24,10 @@ Question 3: Which city is more popular with visitors?
 
 Question 4: What are the popular areas to stay and what is the recommended type of housing?
 
-There are 3 jupyter notebooks inside the repository.
-
-1. Seattle and Boston Airbnb data.ipynb
-2. Which is cheaper to stay and what is the best time to visit?.ipynb
-3. What are the popular areas to stay and what is the recommended type of housing?.ipynb
-
-The first notebook has some basic EDA on the dataset.
-The second notebook attempts to answer question 1,2 and 3.
-The third notebood answers question 4.
 
 ## Results
 
-I found out that in terms of weather conditions, housing prices Seattle is a better place to travel compared to Boston.
+I found out that in terms of weather conditions, housing prices Seattle is a better place to travel compared to Boston. Please look into the notebook for detailed analysis
 
 ## Future work
 
