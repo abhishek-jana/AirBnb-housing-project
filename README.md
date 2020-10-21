@@ -15,9 +15,13 @@ The dataset for the project can be downloaded from [here](http://insideairbnb.co
 ### Project structure
 
 This projects aims to solve 4 business questions related to Boston and Seattle data.
+
 Question 1: Which place is cheaper to stay? Boston or Seattle.
+
 Question 2: What is the best time to visit these places?
+
 Question 3: Which city is more popular with visitors?
+
 Question 4: What are the popular areas to stay and what is the recommended type of housing?
 
 There are 3 jupyter notebooks inside the repository.
