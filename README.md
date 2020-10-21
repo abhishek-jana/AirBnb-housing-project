@@ -7,6 +7,18 @@ This project focuses on exploring some of business questions relted to Boston an
 This project is done on anaconda platform using jupyter notebook jupyter notebook. The detailed instruction of how to install anaconda can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
 To create a virtual environment see [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
+in the virtual environment, clone the repository :
+```
+git clone https://github.com/abhishek-jana/AirBnb-housing-project.git
+```
+Next, use the following command to install necessary packages:
+
+```
+cd <pat to Airbnb-housing-project>
+pip install -r requirements.txt
+```
+To install the dependencies.
+
 ### Dataset
 
 The dataset for the project can be downloaded from [here](http://insideairbnb.com/get-the-data.html).
