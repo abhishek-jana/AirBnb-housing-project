@@ -67,6 +67,8 @@ We can also find out the monthly availibility of the properties using the "avail
 
 ![Popular Area Boston](https://github.com/abhishek-jana/AirBnb-housing-project/blob/main/image/recomended_palce.png?raw=True "Popular Area Boston")
 
+![Recommended housing Boston](https://github.com/abhishek-jana/AirBnb-housing-project/blob/main/image/recomended_housing.png?raw=True "Recommended housing Boston")
+
 The first two datasets gives us information on how the pricing changes with  the property type, bedrooms, bathrooms, neighbourhood, zipcode etc. In this project I tried to find out the relation between neighbourhood and price and between property type and price. These two analysis can help determine Question 4 which aims to find out the popular places to stay in Boston/Seattle and finding recommended housing on these cities.
 
 The "image" folder contains varius plots related to the analysis which can also be found in the jupyter notebook.
