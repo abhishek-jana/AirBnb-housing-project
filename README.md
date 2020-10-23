@@ -2,7 +2,33 @@
 
 # Project motivation
 
-This project focuses on exploring some of business questions relted to Boston and Seattle Airbnb data.  
+This project focuses on exploring some of business questions relted to Boston and Seattle Airbnb data.
+
+Boston is located on the east coast of the US, whereas Seattle is located on the west coast. If we compare the weathers, this is what we see:
+
+**Boston, Massachusetts**
+
+**Summer** High: the July high is around 82.4 degrees
+
+**Winter** Low: the January low is 19.2
+
+**Rain:** averages 47.4 inches of rain a year
+
+**Snow:** averages 48.1 inches of snow a year
+
+**Seattle, Washington**
+
+**Summer** High: the July high is around 75.8 degrees
+
+**Winter** Low: the January low is 37
+
+**Rain:** averages 38 inches of rain a year
+
+**Snow:** averages 4.6 inches of snow a year
+
+**Source:** https://www.bestplaces.net/climate/?c1=55363000&c2=52507000
+
+As we can see, **Seattle** is a slightly more comfortable place to visit. Let’s see what we can infer using the Airbnb data.
 
 ## Project Set Up and Installation
 
