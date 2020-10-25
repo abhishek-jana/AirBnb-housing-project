@@ -101,7 +101,11 @@ The **"image"** folder contains varius plots related to the analysis which can a
 
 ## Results
 
-I found out that in terms of weather conditions, housing prices Seattle is a better place to travel compared to Boston. Please look into the notebook for detailed analysis
+I found out that in terms of weather conditions, housing prices Seattle is a better place to travel compared to Boston.
+
+From this analysis, the conference holders can also decide what's the ideal time to hold big events in Boston/Seattle.
+
+Please look into the notebook for detailed analysis.
 
 ## Future work
 
